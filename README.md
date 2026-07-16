@@ -4,9 +4,9 @@
 
 🌱 &nbsp; I'm a blended MS student studying Statistics and Bioinformatics at Cal Poly San Luis Obispo! \
 💻 &nbsp;I'm currently performing research in the broader field of bioinformatics from reference genome assembly to network comparisons. \
-✨ &nbsp;I'm currently looking for opportunities in bioinformatics and biostatistics.\
+✨ &nbsp;I'm currently applying for PhD programs in bioinformatics and computational biology.\
 🎵 &nbsp;In my free time, I like to bake, take care of my plants, host home cafes, and play rhythm games. \
-💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
+💬 &nbsp;Feel free to reach out to me for general inquiries or discussions on the aforementioned topics!\
 ✉️ &nbsp;You can email me at edegembe@calpoly.edu. I'll try to respond as soon as possible!\
 📄 &nbsp;You can check my [LinkedIn](https://www.linkedin.com/in/edegembe/) for more details about work experience.
 
